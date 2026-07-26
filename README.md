@@ -37,7 +37,7 @@ Bash:
 
 git clone https://github.com/Enes0011456/Remote-TV-Control
 
-cd remote-tv-control
+cd Remote-TV-Control-main
 
 pip install -r requirements.txt
 
